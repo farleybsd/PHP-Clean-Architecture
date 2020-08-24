@@ -4,4 +4,7 @@
  
  2.0 Criar as entidades 
  -> Src\Aluno.php
- 
+
+ 3.0 ValueObjects
+ -> https://martinfowler.com/bliki/ValueObject.html
+  
