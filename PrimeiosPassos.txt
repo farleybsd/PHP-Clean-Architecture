@@ -1,3 +1,7 @@
 1.0 Criando o composer
  -> composer.json
  -> Apos a configuracao componser rodar o comando composer dump-autoload
+ 
+ 2.0 Criar as entidades 
+ -> Src\Aluno.php
+ 
