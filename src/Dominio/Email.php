@@ -1,5 +1,5 @@
 <?php
-namespace Alura\Arquitetura;
+namespace Alura\Arquitetura\Dominio;
 //ValueObjects porque nao tem nehum campo unico como Id
 class Email
 {

@@ -5,7 +5,7 @@
 * ou seja CPF nao é uma string e uma classe CPF com suas validacoes
 */
 
-namespace Alura\Arquitetura;
+namespace Alura\Arquitetura\Dominio;
 class CPF
 {
     private string $numero;

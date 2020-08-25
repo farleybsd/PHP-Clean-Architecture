@@ -1,6 +1,6 @@
 <?php
-namespace Alura\Arquitetura\Indicacao;
-use Alura\Arquitetura\Aluno\Aluno;
+namespace Alura\Arquitetura\Dominio\Indicacao;
+use AAlura\Arquitetura\Dominio\Aluno\Aluno;
 class Indicacao
 {
     private Aluno $indicante;
