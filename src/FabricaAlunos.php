@@ -21,6 +21,8 @@ class FabricaAlunos
    }
 
 }
+// desativado apenas exemplo
+
 /* Criando Aluno
 
 $fabrica = new FabricaAlunos();
