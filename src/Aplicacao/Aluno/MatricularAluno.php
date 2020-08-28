@@ -21,3 +21,6 @@ class MatricularAluno
         $this->repositorioDeAluno->adicionar($aluno);
     }
 }
+
+
+// essa classe que vai ser chamada na interface grafica
